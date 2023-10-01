@@ -14,7 +14,7 @@
  
 <br>
  
-### para entrar em contato
+### contato
  
 <div> 
   <a href="https://instagram.com/breno_oliveira_58" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
